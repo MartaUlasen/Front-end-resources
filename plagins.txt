@@ -1,1 +1,2 @@
 The calendar: https://github.com/dbushell/Pikaday
+Star rating using pseudo-element: https://codepen.io/jamesbarnett/pen/vlpkh
