@@ -1,2 +1,3 @@
-http://html5.by/blog/flexbox/ 
-https://habrahabr.ru/post/250621/ 300 потрясающих бесплатных сервисов
+Флексбоксы: http://html5.by/blog/flexbox/ 
+300 потрясающих бесплатных сервисов: https://habrahabr.ru/post/250621/
+Svg-png icons: https://thenounproject.com/
