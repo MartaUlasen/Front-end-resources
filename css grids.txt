@@ -1,0 +1,3 @@
+Squared responsive items: https://scrimba.com/c/cgGwVhb
+Tutorial css grids: https://scrimba.com/c/cast-1950
+Mini tutorial css grids: https://scrimba.com/c/cast-1972
