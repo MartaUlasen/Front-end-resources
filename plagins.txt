@@ -2,3 +2,4 @@ The calendar: https://github.com/dbushell/Pikaday
 Star rating: 
   1) Using pseudo-element: https://codepen.io/jamesbarnett/pen/vlpkh
   2) Using svg: https://codepen.io/samia92/pen/mwyNvN
+Form without PHP ang JS: https://formspree.io/
