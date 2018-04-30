@@ -2,3 +2,4 @@
 300 потрясающих бесплатных сервисов: https://habrahabr.ru/post/250621/
 Svg-png icons: https://thenounproject.com/
 To customize google.maps: https://mapstyle.withgoogle.com/
+Smooth scrolling: https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations
