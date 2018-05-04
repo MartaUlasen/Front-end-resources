@@ -3,3 +3,5 @@ Star rating:
   1) Using pseudo-element: https://codepen.io/jamesbarnett/pen/vlpkh
   2) Using svg: https://codepen.io/samia92/pen/mwyNvN
 Form without PHP ang JS: https://formspree.io/
+Library to create fullscreen scrolling websites: https://github.com/alvarotrigo/fullPage.js/#fullpagejs
+Library with sliders: http://kenwheeler.github.io/slick/
