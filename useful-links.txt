@@ -5,3 +5,4 @@ To customize google.maps: https://mapstyle.withgoogle.com/
 Smooth scrolling: https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations
 Specifics on CSS Specificity: https://css-tricks.com/specifics-on-css-specificity/
 Can I use: https://caniuse.com/#home
+Connect the Webpack 4: https://habr.com/post/350886/
