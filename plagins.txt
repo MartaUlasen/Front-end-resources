@@ -6,3 +6,4 @@ Form without PHP ang JS: https://formspree.io/
 Library to create fullscreen scrolling websites: https://github.com/alvarotrigo/fullPage.js/#fullpagejs
 Sliders with jQuery: http://kenwheeler.github.io/slick/
 Slider: https://github.com/nolimits4web/swiper
+Icon-flag svg: http://flag-icon-css.lip.is/
