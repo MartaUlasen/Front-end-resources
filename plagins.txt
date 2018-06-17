@@ -8,3 +8,4 @@ Sliders with jQuery: http://kenwheeler.github.io/slick/
 Slider: https://github.com/nolimits4web/swiper
 Icon-flag svg: http://flag-icon-css.lip.is/
 Custom checkbox and radio: http://icheck.fronteed.com/
+Animation: https://daneden.github.io/animate.css/
