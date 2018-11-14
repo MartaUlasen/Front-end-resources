@@ -6,3 +6,4 @@ Smooth scrolling: https://evilmartians.com/chronicles/scroll-to-the-future-moder
 Specifics on CSS Specificity: https://css-tricks.com/specifics-on-css-specificity/
 Can I use: https://caniuse.com/#home
 Connect the Webpack 4: https://habr.com/post/350886/
+Unicode-symbol: http://yoksel.github.io/unicode-table/
