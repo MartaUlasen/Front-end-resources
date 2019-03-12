@@ -7,3 +7,4 @@ Specifics on CSS Specificity: https://css-tricks.com/specifics-on-css-specificit
 Can I use: https://caniuse.com/#home
 Connect the Webpack 4: https://habr.com/post/350886/
 Unicode-symbol: http://yoksel.github.io/unicode-table/
+the best code snipprts: https://medium.com/dailyjs/codetidbits30-9a782b17fa89
