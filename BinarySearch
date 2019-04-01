@@ -1,0 +1,23 @@
+const array = [2,3,4,5,6,7,8,9];
+const item = 5;
+
+
+function searchItem(array, item) {
+	let low = 0;
+	let hight = array.length - 1;
+	
+	while (low <= hight) {
+		let middle = Math.floor((low + hight) / 2);
+		let guess = array[middle];
+		if (guess === item) {
+			return middle;
+		} else if (guess > item) {
+			hight = middle - 1;
+		} else {
+			low = middle + 1;
+		}
+	} 
+	
+	return middle;
+}
+const success = searchItem(array, item)
